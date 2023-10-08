@@ -43,5 +43,7 @@ int main() {
         Graphics::simulate_creature(creature);
     }
 
+    std::cout << "Dobra zmiana" << std::endl;
+
     return 0;
 }
