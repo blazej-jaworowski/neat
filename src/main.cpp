@@ -45,5 +45,7 @@ int main() {
 
     std::cout << "Dobra zmiana" << std::endl;
 
+    std::cout << "DUPA" << std::endl;
+
     return 0;
 }
